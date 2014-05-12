@@ -1,0 +1,14 @@
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.pdb
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.pdb
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.xml
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.resources.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csprojResolveAssemblyReference.cache
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.de.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csproj.GenerateResource.Cache
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\de\PdfSharp.Charting.resources.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.pdb

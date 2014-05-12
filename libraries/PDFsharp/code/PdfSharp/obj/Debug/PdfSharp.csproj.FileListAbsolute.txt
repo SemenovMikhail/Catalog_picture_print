@@ -1,0 +1,12 @@
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.xml
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.pdb
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\bin\Debug\de\PdfSharp.resources.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreview.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreviewCanvas.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.de.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.csproj.GenerateResource.Cache
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\de\PdfSharp.resources.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.dll
+E:\Работа\Планета\Размещение картинок\Pic_print1\libraries\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.pdb

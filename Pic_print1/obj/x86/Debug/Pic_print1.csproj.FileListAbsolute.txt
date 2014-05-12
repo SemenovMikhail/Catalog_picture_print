@@ -1,0 +1,48 @@
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.exe
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.pdb
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Form1.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Properties.Resources.resources
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.csproj.GenerateResource.Cache
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.exe
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.pdb
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.csprojResolveAssemblyReference.cache
+E:\Работа\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\PdfSharp.dll
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.exe
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.pdb
+C:\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.exe
+C:\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.pdb
+C:\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\PdfSharp.dll
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Form1.resources
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Properties.Resources.resources
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.exe
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.pdb
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.exe
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\Pic_print1.pdb
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\bin\Debug\PdfSharp.dll
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Form1.resources
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Properties.Resources.resources
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\Планета\Размещение картинок\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.exe
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.pdb
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\bin\Debug\Pic_print1.exe
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\bin\Debug\Pic_print1.pdb
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\bin\Debug\PdfSharp.dll
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Properties.Resources.resources
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\Планета\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Picture_print.resources
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.exe
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.pdb
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\bin\Debug\Pic_print1.exe
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\bin\Debug\Pic_print1.pdb
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\bin\Debug\PdfSharp.dll
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.csprojResolveAssemblyReference.cache
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Picture_print.resources
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print.Properties.Resources.resources
+E:\Работа\Планета\Размещение картинок\pic2\Pic_print1\Pic_print1\obj\x86\Debug\Pic_print1.csproj.GenerateResource.Cache

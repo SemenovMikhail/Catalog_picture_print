@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Parametrs>
+  <width>2480</width>
+  <height>3508</height>
+  <indent_logo_h>116</indent_logo_h>
+  <logo_h>112</logo_h>
+  <indent_header_h>74</indent_header_h>
+  <header_h >37</header_h>
+  <indent_subtitle_h>20</indent_subtitle_h> 
+  <subtitle_h>33</subtitle_h>
+  <indent_pic_h>58</indent_pic_h>
+  <horizontal_pic_h>462</horizontal_pic_h>
+  <indent_name_h>24</indent_name_h>
+  <name_h>37</name_h>
+  <vertical_pic_h>708</vertical_pic_h>
+  <info_line_h>49</info_line_h>
+  <indent_page_w>237</indent_page_w>
+  <horizontal_pic_w>708</horizontal_pic_w>
+  <vertical_pic_w>466</vertical_pic_w>
+  <horizontal_indent_w>20</horizontal_indent_w>
+  <vertical_indent_w>95</vertical_indent_w>
+  <page_indent_w>83</page_indent_w>
+  <indent_logo_w>41</indent_logo_w>
+  <header_w>416</header_w>
+  <subtitle_w>416</subtitle_w>
+  <header_font>45</header_font>
+  <subtitle_font>41</subtitle_font>
+  <name_font>37</name_font>
+</Parametrs>
